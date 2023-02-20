@@ -18,3 +18,4 @@ Pada program yang saya buat, terdapat 3 class dan 1 main, yaitu :
 2. Class Sivitas akademik untuk membuat objek Sivitas akademik dan memiliki beberapa atribut yaitu asal universitas, dan email_edu. Class Sivitas akademik sebagai child dari Human dan parent dari Mahasiswa.
 3. Class Mahasiswa untuk membuat objek Mahasiswa dan memiliki beberapa atribut yaitu NIM, prodi, dan fakultas. Class Mahasiswa sebagai cucu dari Human dan sebagai anak dari Sivitas akademik.
 
+### 
