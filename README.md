@@ -8,7 +8,7 @@ Aamiin. */
 
 ### Soal
 > Buatlah program berbasis OOP menggunakan bahasa pemrograman C++, Java, Python, dan PHP yang mengimplementasikan konsep Multi-level Inheritance  pada kelas - kelas tersebut :
-- Mahasiswa: NIM, nama, jenis_kelamin, fakultas, prodi
-- Human: NIK, nama, jenis_kelamin
-- SivitasAkademik: asal_universitas, email_edu
+> - Mahasiswa: NIM, nama, jenis_kelamin, fakultas, prodi
+> - Human: NIK, nama, jenis_kelamin
+> - SivitasAkademik: asal_universitas, email_edu
 
