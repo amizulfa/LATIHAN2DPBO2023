@@ -14,8 +14,10 @@ Aamiin. */
 
 ### Class
 Pada program yang saya buat, terdapat 3 class dan 1 main, yaitu :
-1. Class Human untuk membuat suatu objek Human dan memiliki beberapa atribut yaitu NIK, nama, dan jenis kelamin. Class Human yaitu sebagai parent atau orang tua dari Sivitas akademik dan Mahasiswa.
+1. Class Human untuk membuat suatu objek Human dan memiliki beberapa atribut yaitu NIK, nama, dan jenis kelamin. Class Human yaitu sebagai parent atau orang tua dari Sivitas akademik dan Mahasiswa karena .
 2. Class Sivitas akademik untuk membuat objek Sivitas akademik dan memiliki beberapa atribut yaitu asal universitas, dan email_edu. Class Sivitas akademik sebagai child dari Human dan parent dari Mahasiswa.
 3. Class Mahasiswa untuk membuat objek Mahasiswa dan memiliki beberapa atribut yaitu NIM, prodi, dan fakultas. Class Mahasiswa sebagai cucu dari Human dan sebagai anak dari Sivitas akademik.
 
-### 
+### Output
+![image](https://user-images.githubusercontent.com/100895165/220076481-5389b0a6-5ab0-400b-a311-353b6a7f1c89.png)
+
